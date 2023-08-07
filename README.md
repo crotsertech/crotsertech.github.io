@@ -1,3 +1,5 @@
+
+
 Engineer by day, sleeper by night (if I'm lucky). Friend to all felines. I hold a theoretical degree in physics.
 I am a Cyber Privacy Advocate, [DRM](https://www.defectivebydesign.org/) Abolitionist, [Teetotaler](https://en.wikipedia.org/wiki/Teetotalism), [Right to Repair](https://www.ifixit.com/Manifesto) supporter, Linux user, [IWW](https://www.iww.org/) member, and [FSF](https://www.fsf.org/about/) Associate Member.
 
