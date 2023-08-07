@@ -14,7 +14,7 @@ Below are some of the software projects I've contributed to...
 |----------------|-------------------------------|-----------------------------|
 |     ![System Sizer icon](https://github.com/crotsertech/System-Sizer/blob/main/system-sizer-64.png?raw=true)**System Sizer**|System Sizer is a quick reference program for generating the true capacity of a water softener. System Sizer automatically compensates for iron and manganese levels and will also factor in a 10% system reserve.|[GitHub](https://github.com/crotsertech/System-Sizer)|
 |**Testman**|||
-|**eFlowswitch**| eFlowswitch is used to detect water flow measured by a hall effect sensor and use that signal to de/activate a relay to operate chemical dosing pumps which make use of dry circut based flowswitches. (such as STENNER ECON FP PUMPS.)|GitHub
+|**eFlowswitch**| eFlowswitch is used to detect water flow measured by a hall effect sensor and use that signal to de/activate a relay to operate chemical dosing pumps which make use of dry circut based flowswitches. (such as STENNER ECON FP PUMPS.)|[GitHub](https://github.com/crotsertech/eFlowswitch)
 | | | |
 
 # Links elsewhere
